@@ -122,7 +122,6 @@ export function DashboardSection() {
                     ))}
                 </div>
 
-                {/* Action buttons */}
                 <div className="flex justify-end space-x-2 mt-4">
                     <motion.button
                         className="bg-lightBlue text-white p-2 rounded-full"

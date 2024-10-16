@@ -1,6 +1,5 @@
 import Image from 'next/image'
 import { Card } from '@/components/Card'
-import { motion } from 'framer-motion'
 
 interface WeaponCardProps {
   name: string
